@@ -1,0 +1,7 @@
+await import('../models/User.js')
+await import('../models/Admin.js')
+await import('../models/Product.js')
+await import('../models/Review.js')
+await import('../models/Category.js')
+await import('../models/Order.js')
+await import('../models/File.js')
